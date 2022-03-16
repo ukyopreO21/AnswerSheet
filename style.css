@@ -1,0 +1,24 @@
+table{
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 30%;
+    margin-left: auto;  
+    margin-right: auto;  
+}
+  
+td, th{
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+}
+
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, sans-serif;
+}
+
+#result{
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    font-family: arial, sans-serif;
+}
